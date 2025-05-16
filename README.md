@@ -23,18 +23,18 @@ Ce projet est une application complète de gestion de stages, développée avec 
 ## 🧰 Technologies utilisées
 
 ### 🔹 Frontend (React JS + Vite)
-- **[React JS](https://reactjs.org/)
-- **[Vite](https://vitejs.dev/)
-- **[React Router](https://reactrouter.com/)
-- **[Axios](https://axios-http.com/)
+- **[React JS](https://reactjs.org/)**
+- **[Vite](https://vitejs.dev/)**
+- **[React Router](https://reactrouter.com/)**
+- **[Axios](https://axios-http.com/)**
 - **[Nivo](https://nivo.rocks/)** pour les graphiques et statistiques
 
 ### 🔸 Backend (Spring Boot)
-- **[Spring Boot](https://spring.io/projects/spring-boot)
-- **[Spring Security](https://spring.io/projects/spring-security)
-- **[Spring Data JPA](https://spring.io/projects/spring-data-jpa)
-- **[MySQL](https://www.mysql.com/) comme base de données
-- **[Insomnia](https://insomnia.rest/) pour tester les endpoints d'API REST
+- **[Spring Boot](https://spring.io/projects/spring-boot)**
+- **[Spring Security](https://spring.io/projects/spring-security)**
+- **[Spring Data JPA](https://spring.io/projects/spring-data-jpa)**
+- **[MySQL](https://www.mysql.com/)** comme base de données
+- **[Insomnia](https://insomnia.rest/)** pour tester les endpoints d'API REST
 
 ---
 
@@ -51,9 +51,5 @@ Ce projet est une application complète de gestion de stages, développée avec 
 3. npm run dev
 
 ---
-Projet dans le cadre d’un projet académique.
-
-
-
-
+Projet réalisé dans le cadre d’un projet académique.
 
