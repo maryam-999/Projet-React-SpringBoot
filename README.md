@@ -6,15 +6,15 @@ Ce projet est une application complète de gestion de stages, développée avec 
 
 ## ⚙️ Fonctionnalités principales
 
-- 🔐 **Authentification sécurisée** via Spring Security
-- 👥 Gestion des **stagiaires** et **tuteurs de stage**
-- 📝 **Évaluation des stagiaires** par les tuteurs
-- 📄 **Téléchargement de la fiche d’évaluation**
+- **Authentification sécurisée** via Spring Security
+- Gestion des **stagiaires** et **tuteurs de stage**
+- **Évaluation des stagiaires** par les tuteurs
+- **Téléchargement de la fiche d’évaluation**
   - Le **tuteur** peut télécharger la fiche une fois l’évaluation terminée
   - Le **stagiaire** peut la télécharger **uniquement** si son stage a été évalué et validé
-- 📅 **Calendrier personnalisé** pour chaque utilisateur (stagiaire, tuteur, administrateur)
+- **Calendrier personnalisé** pour chaque utilisateur (stagiaire, tuteur, administrateur)
   - Gestion des événements et des dates clés liés au stage
-- 📊 **Dashboard personnalisé** selon le rôle de l’utilisateur
+- **Dashboard personnalisé** selon le rôle de l’utilisateur
   - Affiche des **statistiques dynamiques** via la librairie **Nivo**
   - Vue synthétique avant d’accéder aux données détaillées
 
